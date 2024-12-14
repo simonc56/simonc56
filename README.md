@@ -16,8 +16,8 @@ ___
 - Scripts Bash, Python, Systemd
 - Notion, Trello, Figma
 
-![theme](https://github-readme-stats.vercel.app/api/top-langs/?username=simonc56&theme=noctis_minimus)
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=simonc56&show_icons=true&theme=noctis_minimus)
+![theme](https://github-readme-stats.vercel.app/api/top-langs/?username=simonc56&locale=fr&theme=noctis_minimus)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=simonc56&locale=fr&hide=issues&show_icons=true&theme=noctis_minimus)
 ![theme](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simonc56&theme=noctis_minimus)
 
 ### 📫 Me Contacter

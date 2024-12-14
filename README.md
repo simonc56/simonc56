@@ -1,6 +1,6 @@
-## Développeur Web Full Stack 💫
+## Développeur Web Fullstack 💫
 
-Je suis un développeur fullstack Javascript/Typescript avec une curiosité pour tout ce qui est automatisable. Animé par le souci du détail, je mets un point d'honneur à écrire un code propre et efficace.
+Je suis un développeur fullstack Javascript/Typescript avec une curiosité pour tout ce qui est automatisable. Animé par le souci du détail, je mets un point d'honneur à écrire un code propre, compréhensible et maintenable.
 
 - 🔭 Je travaille actuellement sur une application mobile en React Native pour une startup parisienne.
 - 🌱 J'apprends l'architecture hexagonale / clean architecture.
@@ -11,8 +11,8 @@ ___
 - **Backend**: Node.js, Express, Sequelize, PostgreSQL, Supabase, Firebase
 
 #### 🛠️ DevOps & Outils
-- Docker, Github Actions
-- Sqitch (migration de BDD)
+- Docker, Docker-compose, Github Actions
+- Sqitch (migration de base de données)
 - Scripts Bash, Python, Systemd
 - Notion, Trello, Figma
 
@@ -23,5 +23,5 @@ ___
 ### 📫 Me Contacter
 
 - **Email** : simchat@gmail.com
-- **LinkedIn** : https://www.linkedin.com/in/s-chateau/
+- **LinkedIn** : https://www.linkedin.com/in/s-chateau
 - **Portfolio** : https://www.simonchateau.ovh

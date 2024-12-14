@@ -1,16 +1,27 @@
-## Hi there 👋
+## Développeur Web Full Stack 💫
 
-<!--
-**simonc56/simonc56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un développeur fullstack Javascript/Typescript avec une curiosité pour tout ce qui est automatisable. Animé par le souci du détail, je mets un point d'honneur à écrire un code propre et efficace.
 
-Here are some ideas to get you started:
+- 🔭 Je travaille actuellement sur une application mobile en React Native pour une startup parisienne.
+- 🌱 J'apprends l'architecture hexagonale / clean architecture.
+- 👯 Je cherche à collaborer sur des projets de développement web et applications mobiles.
+___
+#### 💻 Compétences Techniques
+- **Frontend**: React, React Native, Next, Redux/toolkit, Vite, SASS, TailwindCSS
+- **Backend**: Node.js, Express, Sequelize, PostgreSQL, Supabase, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ DevOps & Outils
+- Docker, Github Actions
+- Sqitch (migration de BDD)
+- Scripts Bash, Python, Systemd
+- Notion, Trello, Figma
+
+![theme](https://github-readme-stats.vercel.app/api/top-langs/?username=simonc56&theme=noctis_minimus)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=simonc56&show_icons=true&theme=noctis_minimus)
+![theme](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simonc56&theme=noctis_minimus)
+
+### 📫 Me Contacter
+
+- **Email** : simchat@gmail.com
+- **LinkedIn** : https://www.linkedin.com/in/s-chateau/
+- **Portfolio** : https://www.simonchateau.ovh

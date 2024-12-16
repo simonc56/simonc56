@@ -19,9 +19,3 @@ ___
 ![theme](https://github-readme-stats-sable-psi-92.vercel.app/api/top-langs/?username=simonc56&locale=fr&theme=noctis_minimus)
 ![Statistiques GitHub](https://github-readme-stats-sable-psi-92.vercel.app/api?username=simonc56&locale=fr&hide=issues&show=discussions_answered&show_icons=true&theme=noctis_minimus)
 ![theme](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simonc56&theme=noctis_minimus)
-
-### 📫 Me Contacter
-
-- **Email** : simchat@gmail.com
-- **LinkedIn** : https://www.linkedin.com/in/s-chateau
-- **Portfolio** : https://www.simonchateau.ovh

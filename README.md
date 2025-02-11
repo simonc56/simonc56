@@ -1,4 +1,4 @@
-## Développeur Web Fullstack 💫
+## Développeur React & Node.js  💫
 
 Je suis un développeur fullstack Javascript/Typescript avec une curiosité pour tout ce qui est automatisable. Animé par le souci du détail, je mets un point d'honneur à écrire un code propre, compréhensible et maintenable.
 

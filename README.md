@@ -11,9 +11,8 @@ ___
 
 #### 🛠️ DevOps & Outils
 - Docker, Github Actions
-- Sqitch (migration de base de données)
 - Scripts ![Bash](https://img.shields.io/badge/bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white) ![Systemd](https://img.shields.io/badge/systemd-AA4E25?style=flat&logo=linux&logoColor=white)
-- Notion, Trello, Figma
+- Trello, Figma
 
 ![theme](https://github-readme-stats-sable-psi-92.vercel.app/api/top-langs/?username=simonc56&locale=fr&hide_border=true&theme=noctis_minimus)
 ![Statistiques GitHub](https://github-readme-stats-sable-psi-92.vercel.app/api?username=simonc56&locale=fr&hide_border=true&hide=issues&show_icons=true&theme=noctis_minimus)
